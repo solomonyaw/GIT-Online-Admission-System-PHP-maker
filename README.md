@@ -26,6 +26,8 @@ BSc Chemical Engineering
 
 BSc Materials Engineering 
 
+Bsc Metallurgical Engineering
+
 BSc Architecture 
 
 BA African and African Diaspora Studies
