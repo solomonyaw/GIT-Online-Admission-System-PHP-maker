@@ -61,3 +61,9 @@ Bsc. Business Systems Analysis
 4.Open the PHP Maker project File
 
 5.Generate Files if you make changes
+
+![alt text](snapshots/git.PNG "Description goes here")
+![alt text](snapshots/git2.PNG "Description goes here")
+![alt text](snapshots/git3.PNG "Description goes here")
+![alt text](snapshots/git4.PNG "Description goes here")
+![alt text](snapshots/git5.PNG "Description goes here")
