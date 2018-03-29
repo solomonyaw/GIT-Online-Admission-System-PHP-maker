@@ -9,23 +9,42 @@ the African continent.
 The following are some of the programs I think we should place emphasis on:
 
 Bsc.Computer Science
+
 Bsc Information Technology
+
 Bsc Software Engineering
+
 Bsc.Computer Engineering
+
 BSc Artificial Intelligence 
+
 Bsc.Robotics
+
 BSc Chemical Engineering 
+
 BSc Materials Engineering 
+
 BSc Architecture 
+
 BA African and African Diaspora Studies
+
 BSC Astronomy
+
 BSC Entrepreneurship and Innovation
+
 Bsc Geographic Information Systems
+
 Bsc.Environment Science
+
 Bsc.Electrical Engineering
+
 Bsc.Nursing
+
 MBBS/BSc Medicine
+
 Bsc.Architecture
+
 Bsc.Geodetic Engineering
+
 Bsc. Business Systems Analysis
 
