@@ -49,9 +49,15 @@ Bsc.Geodetic Engineering
 Bsc. Business Systems Analysis
 
 # How to Run the application
+
 1.You need a web server like xampp server
+
 2.Import the database
+
 3. Upload the admission folder into your htdoc folder in xampp
+
 3.Install PHP Maker 2018 setup
+
 4.Open the PHP Maker project File
+
 5.Generate Files if you make changes
