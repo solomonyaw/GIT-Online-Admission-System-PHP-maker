@@ -2,10 +2,9 @@
 PHP maker web application
 
 This project is birth to a semester project work that I did in Internet Enabled Application Systems 
-Development. Its an online admission system which I built with PHPMaker. Due to my passion to see Ghana and Africa 
-as a whole advance technologically revived the interest for me to develop this application. My hope is that Ghana could 
-build an institution such as the Massachusetts Institute of Technology or the Indian Institute Of Technology to help transform 
-the African continent.
+Development. Its an online admission system which I built with PHPMaker. My passion to see Ghana and Africa 
+as a whole advance technologically revived the interest in me to develop this application. My hope is that Ghana could 
+build an institution just like the Massachusetts Institute of Technology or the Indian Institute Of Technology focused on techological research and also to help transform the African continent.
 The following are some of the programs I think we should place emphasis on:
 
 Bsc.Computer Science
