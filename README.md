@@ -1,6 +1,6 @@
 # GIT-Online-Admission-System-PHP-maker
-PHP maker web application
-
+A PHP Maker web application
+Website:http://ghanainstituteoftechnology.tk/
 
 This project is birth to a semester project work that I did in Internet Enabled Application Systems 
 Development. Its an online admission system which I built with PHPMaker. My passion to see Ghana and Africa 
@@ -48,3 +48,10 @@ Bsc.Geodetic Engineering
 
 Bsc. Business Systems Analysis
 
+# How to Run the application
+1.You need a web server like xampp server
+2.Import the database
+3. Upload the admission folder into your htdoc folder in xampp
+3.Install PHP Maker 2018 setup
+4.Open the PHP Maker project File
+5.Generate Files if you make changes
