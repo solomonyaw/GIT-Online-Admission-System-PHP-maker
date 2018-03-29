@@ -58,13 +58,13 @@ Bsc. Business Systems Analysis
 
 2.Import the database
 
-3. Upload the admission folder into your htdoc folder in xampp
+3.Upload the admission folder into your htdoc folder in xampp
 
-3.Install PHP Maker 2018 setup
+4.Install PHP Maker 2018 setup
 
-4.Open the PHP Maker project File
+5.Open the PHP Maker project File
 
-5.Generate Files if you make changes
+6.Generate Files if you make changes
 
 ![alt text](snapshots/git.PNG "Description goes here")
 ![alt text](snapshots/git2.PNG "Description goes here")
