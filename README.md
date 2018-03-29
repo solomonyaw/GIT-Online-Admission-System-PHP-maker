@@ -16,6 +16,8 @@ Bsc Software Engineering
 
 Bsc.Computer Engineering
 
+Bsc Mathematics
+
 BSc Artificial Intelligence 
 
 Bsc.Robotics
