@@ -1,6 +1,7 @@
 # GIT-Online-Admission-System-PHP-maker
 PHP maker web application
 
+
 This project is birth to a semester project work that I did in Internet Enabled Application Systems 
 Development. Its an online admission system which I built with PHPMaker. My passion to see Ghana and Africa 
 as a whole advance technologically revived the interest in me to develop this application. My hope is that Ghana could 
