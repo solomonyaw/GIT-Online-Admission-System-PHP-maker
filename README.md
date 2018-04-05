@@ -28,9 +28,15 @@ BSc Materials Engineering
 
 Bsc Metallurgical Engineering
 
+Bsc Agricultural Technology
+
+Bsc Shipbuilding and Repair
+
 BSc Architecture 
 
 BA African and African Diaspora Studies
+
+Bsc Aerospace Engineering
 
 BSC Astronomy
 
@@ -47,6 +53,9 @@ Bsc.Nursing
 MBBS/BSc Medicine
 
 Bsc.Architecture
+
+Bsc.Civil Engineering
+
 
 Bsc.Geodetic Engineering
 
