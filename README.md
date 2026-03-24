@@ -7,13 +7,14 @@ Website:http://ghanainstituteoftechnology.tk/
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ghana Institute of Technology (GIT) Vision</title>
+  
+  #Ghana Institute of Technology (GIT) Vision
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 40px;">
 
   <h1>🇬🇭 Ghana Institute of Technology (GIT) Vision</h1>
 
-  <img src="./a_digital_illustration_for_ghana_institute_of_tec.png" alt="GIT Vision" style="width:100%; max-width:900px; border-radius:10px;">
+  <img src="GITS.png" alt="GIT Vision" style="width:100%; max-width:900px; border-radius:10px;">
 
   <h2>🚀 Overview</h2>
   <p>
