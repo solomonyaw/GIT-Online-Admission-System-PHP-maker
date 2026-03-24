@@ -71,7 +71,8 @@ Website:http://ghanainstituteoftechnology.tk/
     <li>Architecture</li>
     <li>Medicine & Nursing</li>
     <li>Business Systems Analysis</li>
-    <li>Entrepreneurship & Innovation((𝐭𝐨 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐨𝐮𝐫 𝐩𝐨𝐫𝐭𝐬 𝐚𝐧𝐝 𝐦𝐚𝐫𝐢𝐭𝐢𝐦𝐞 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲)</li>
+     <li>Shipbuilding & Marine Engineering (𝐭𝐨 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐨𝐮𝐫 𝐩𝐨𝐫𝐭𝐬 𝐚𝐧𝐝 𝐦𝐚𝐫𝐢𝐭𝐢𝐦𝐞 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲)</li>
+     <li>Entrepreneurship & Innovation</l1>
     <li>African & Diaspora Studies</li>
   </ul>
 
